@@ -4,7 +4,7 @@ It evaluates PDF resumes against 24 job roles and user-selected skills, providin
 The app features two interfaces: one for analyzing a single resume and another for comparing up to 10 resumes in a table format. 
 This tool streamlines hiring by reducing manual effort and enabling customized skill matching.
 
-🚀 Project Overview
+🚀     Project Overview
 This project is designed to automate the resume screening process by:
 
 Predicting job roles from resume content
@@ -17,9 +17,9 @@ Offering both single resume analysis and bulk resume comparison
 
 Built using:
 
-🐍 Python
+🐍   Python
 
-📚 Machine Learning (TF-IDF + Naive Bayes)
+📚   Machine Learning (TF-IDF + Naive Bayes)
 
 📄 PDF Parsing with PyPDF2
 
